@@ -105,7 +105,7 @@ python -m nltk.downloader stopwords
 ```python
 # run in Python shell or script
 from utils.build_vocab import build_vocab
-build_vocab("data/enron.txt", "models/vocab.pkl")
+build_vocab("data/corpus.txt", "models/vocab.pkl")
 ```
 
 ### 🖥️ 4. Launch Streamlit Interface
