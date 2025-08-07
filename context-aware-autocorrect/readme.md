@@ -62,15 +62,12 @@ The pipeline combines classic NLP techniques like **Levenshtein Distance**, **la
 
 ### 🔡 AutoCorrect Main UI
 
-<p align="center">
 ![AutoCorrect UI](UI/UI_AutoCorrect.PNG)
-</p>
 
 ### 📍 Suggestions Interface
 
-<p align="center">
 ![Suggestion UI](UI/UI_AutoCorrect_Suggestions.PNG)
-</p>
+
 
 ## 📦 Folder Structure
 
